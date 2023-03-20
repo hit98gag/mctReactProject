@@ -89,7 +89,7 @@ loginpage()
 
         </div>
         <div className="image-container">
-            <img src="https://th-i.thgim.com/public/incoming/hy1gx4/article66435367.ece/alternates/FREE_1200/IMG_0893.jpg" alt="" />
+            <img src="https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" />
 
         </div>
     </div>

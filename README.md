@@ -6,7 +6,7 @@
 
 ## Credential
 
-**Email : "Noah"**
+**Email : "No"**
 **Password : "1234"**
 **Note : "Please check the Remember be"**
 
